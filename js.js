@@ -13,8 +13,6 @@ boton.addEventListener('click', function (){
 
 botonColor.addEventListener('click',function(){
 
-    // document.getElementById("portfolio").style.backgroundColor = randomColor ();
-
     document.getElementById("contactame").style.backgroundColor = randomColor ();
 
     document.body.style.backgroundColor = randomColor ();

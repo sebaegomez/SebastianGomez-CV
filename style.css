@@ -38,16 +38,6 @@
     text-align: center;
 }
 
-.portfolio{
-    background-color: rgba(43, 12, 71, 0.397);
-    text-align: center;   
-}
-
-.portfolio hr{
-    margin-left: 20%;
-    margin-right: 20%;
-}
-
 .encabezado img{
     border-radius: 20%;
 }
@@ -102,13 +92,7 @@
 .datos{
     background-color: grey;
 }
-
-.copyright{
-    background-color: rgb(63, 63, 63);
-    text-align: center;
-    color: white;
-}
-    
+ 
 
 .botonEnviar{
     border: none;
@@ -126,7 +110,7 @@
     margin-top: 1%;
     color: black;
     font-weight: lighter;
-    
+
 }
 
 #cambiarColor:hover {
